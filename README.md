@@ -1,34 +1,36 @@
-👋 Welcome to EricJiang's GitHub Profile!
-🚀 Introduction
+# 👋 你好，我是冬止无（winterlessEric） 
 
-Hello! I'm EricJiang, a Chinese junior high school student in Grade 9(2024.9), a passionate software developer and tech enthusiast. By the way, I'm a film and television enthusiast.
+**🎓 学生 | 🚀 编程爱好者**  
+*生于2009.12.5 | 正在探索AI与算法世界*
 
-💻 Technical Skills
+---
 
-I started studying Python in 2019 and stopped in 2021. Now I'm studying C++ and I'm playing for the school's Olympic Informatics Team.(In fact, I have never been working hard on it...)
+## 🛠️ 技术栈
 
-📚 Educational Background
+**深度学习中**  
+- 🤖 Python AI接口开发（OpenAI/Requests）
+- 🏆 C++算法竞赛（csp/noip）
+- 🌐 自然语言处理基础
 
-Chinese junior high school student(didn't graduate yet).
+---
 
-🏆 Achievements
+## 🌟 开源项目
 
-Won the third prize in the junior high school group of the NOC semi-finals in 2023
-Won the second prize in the Blue Bridge Cup Provincial Competition in 2023
-Win the ACSL(American Computer Science League) Certificate of Individual High Distinction in 2019 - 2020
-and so on...
+### [EV1虚拟伙伴](https://github.com/EricJiang1329145/ev1)
+▶️ 基于NLP的情感交互虚拟朋友系统  
+🔧 技术栈：Python, Transformers, SpeechRecognition  
+⭐ 亮点：支持语音对话/情绪识别/个性化记忆存储均在开发中（饼（bs
 
-✅ Work Experience
 
-None
+---
 
-📫 Get In Touch
-For any professional inquiries or just to say hello:
-jmr_eric@outlook.com
-🙏 Thanks For Visiting!
-I appreciate your time exploring my profile. Looking forward to connecting with you!
+---
 
-<!---
-EricJiang1329145/EricJiang1329145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📮 联系我
+📧 邮箱：**[2900463488@qq.com]**  
+📝 技术博客：**[正在建设中...]**  
+
+> ✨ **About Me**  
+> - 🎂 生日代码：`2009.12.5 → print(f"{int('12',16)}月{int('5',8)}日")`  
+> - ⚡ 每天保持2小时算法训练  
+> - ☕ 认为咖啡因和代码是完美组合
