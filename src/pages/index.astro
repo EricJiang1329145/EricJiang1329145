@@ -1,0 +1,45 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="zh-CN">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>👋 你好，宇航员！</h1>
+			<p>
+				欢迎使用官方 <a href="https://astro.build/">Astro</a> 博客模板。这个模板为想要使用Astro构建个人网站、博客或作品集的人提供了一个轻量级、简约风格的起点。
+			</p>
+			<p>
+				这个模板已经在 <code>astro.config.mjs</code> 文件中配置了一些集成。你可以使用
+				<a href="https://astro.build/integrations">Astro集成</a> 来自定义你的设置，为项目添加Tailwind、React或Vue等工具。
+			</p>
+			<p>以下是使用这个模板的一些建议：</p>
+			<ul>
+				<li>在 <code>src/pages/index.astro</code> 中编辑此页面</li>
+				<li>在 <code>src/components/Header.astro</code> 中编辑站点标题</li>
+				<li>在 <code>src/components/Footer.astro</code> 中添加你的名字</li>
+				<li>查看 <code>src/content/blog/</code> 中包含的博客文章</li>
+				<li>在 <code>src/layouts/BlogPost.astro</code> 中自定义博客文章页面布局</li>
+			</ul>
+			<p>
+				祝你使用愉快！如果遇到问题，请记得
+				<a href="https://docs.astro.build/">阅读文档</a>
+				或 <a href="https://astro.build/chat">加入我们的Discord</a> 提问。
+			</p>
+			<p>
+				想要一个更有个性的博客模板？查看
+				<a href="https://github.com/Charca/astro-blog-template">astro-blog-template</a>
+				由 <a href="https://twitter.com/Charca">Maxi Ferreira</a> 创建。
+			</p>
+		</main>
+		<Footer />
+	</body>
+</html>
